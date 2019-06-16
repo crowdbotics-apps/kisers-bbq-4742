@@ -1,0 +1,3 @@
+rootProject.name = 'kisers_bbq_4742'
+
+include ':app'
